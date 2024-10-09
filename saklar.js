@@ -10,4 +10,4 @@ function saklar() {
     togel1.checked ? lampu1.src = "assets/on.gif" : lampu1.src = "assets/off.gif";
     togel2.checked ? lampu2.src = "assets/on.gif" : lampu2.src = "assets/off.gif";
     togel3.checked ? lampu3.src = "assets/on.gif" : lampu3.src = "assets/off.gif";
-  }
+}
